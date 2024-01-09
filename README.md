@@ -17,7 +17,9 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-white.svg?style=for-the-badge&logo=Mongoose&logoColor=c0392b)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-E44C30?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Longnewbie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
