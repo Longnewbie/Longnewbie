@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471n48nv72ura21jl5tut5i77ioq46nzln2y4dw1tc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MasterHead](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gialong.ly.79) 
 
